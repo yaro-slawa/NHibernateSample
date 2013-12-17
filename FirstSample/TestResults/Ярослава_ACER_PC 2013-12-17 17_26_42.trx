@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d05de967-c7f2-4fb9-b6d8-227dcc94acb9" name="Ярослава@ACER_PC 2013-12-17 17:26:42" runUser="acer_pc\Ярослава" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="488ae2ae-2c9d-4977-a8db-acf1a24fd220">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="D:\Study\Architecture\Project\FirstSample\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="Ярослава_ACER_PC 2013-12-17 17_26_42">
+      <DeploymentItem filename="D:\Study\Architecture\Project\FirstSample\SharedLibs\NHibernate.dll" />
+      <DeploymentItem filename="D:\Study\Architecture\Project\FirstSample\SharedLibs\System.Data.SqlServerCe.dll" />
+      <DeploymentItem filename="d:\Study\Architecture\Project\FirstSample\FirstSample\bin\Debug\FirstSample.dll" />
+      <DeploymentItem filename="D:\Study\Architecture\Project\FirstSample\SharedLibs\nunit.framework.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-12-17T17:26:42.2398488+02:00" queuing="2013-12-17T17:26:42.2948519+02:00" start="2013-12-17T17:26:42.3008523+02:00" finish="2013-12-17T17:26:42.5898688+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\study\architecture\project\firstsample\firstsample.test\bin\debug\firstsample.test.dll" id="591c871b-bb88-75da-a487-e12f3f1995a2">
+      <Execution id="4c260274-7a40-4d41-9839-ae4cbc611ff5" />
+      <TestMethod codeBase="D:/Study/Architecture/Project/FirstSample/FirstSample.Test/bin/Debug/FirstSample.Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FirstSample.Test.UnitTest1, FirstSample.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="591c871b-bb88-75da-a487-e12f3f1995a2" executionId="4c260274-7a40-4d41-9839-ae4cbc611ff5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4c260274-7a40-4d41-9839-ae4cbc611ff5" testId="591c871b-bb88-75da-a487-e12f3f1995a2" testName="TestMethod1" computerName="ACER_PC" duration="00:00:00.0157784" startTime="2013-12-17T17:26:42.3018523+02:00" endTime="2013-12-17T17:26:42.5758680+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c260274-7a40-4d41-9839-ae4cbc611ff5">
+    </UnitTestResult>
+  </Results>
+</TestRun>

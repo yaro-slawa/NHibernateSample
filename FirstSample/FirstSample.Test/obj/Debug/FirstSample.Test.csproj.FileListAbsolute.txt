@@ -1,0 +1,12 @@
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\FirstSample.Test.dll
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\FirstSample.Test.pdb
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\obj\Debug\FirstSample.Test.dll
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\obj\Debug\FirstSample.Test.pdb
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\FirstSample.sdf
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\hibernate.cfg.xml
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\FirstSample.dll
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\NHibernate.dll
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\nunit.framework.dll
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\Iesi.Collections.dll
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\bin\Debug\FirstSample.pdb
+D:\Study\Architecture\Project\FirstSample\FirstSample.Test\obj\Debug\FirstSample.Test.csprojResolveAssemblyReference.cache
